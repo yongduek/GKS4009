@@ -6,7 +6,8 @@ Introduction to Exploratory Machine Learning
     2. python programming: class and oop
     3. MNIST classification (first try)
     4. pytorch tutorial: https://pytorch.org/tutorials/beginner/basics/intro.html 
-3. Problems, Models, Data types
-    4. Kaggle 
-5. CNN-based models and problems
-6. Attention-based models and problems
+2. Problems, Models, Data types
+    1. CNN models
+    2. RNN models
+    3. Attention models and Transformer
+    4. Meta-Learning: Learning to learn
